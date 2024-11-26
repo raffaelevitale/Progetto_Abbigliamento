@@ -1,0 +1,10 @@
+C:\Users\luzip\Documents\Visuale\Maggiore\CLASSI\Progetto Abbigliamento\Progetto Abbigliamento\obj\Debug\Progetto Abbigliamento.csproj.AssemblyReference.cache
+C:\Users\luzip\Documents\Visuale\Maggiore\CLASSI\Progetto Abbigliamento\Progetto Abbigliamento\obj\Debug\Progetto_Abbigliamento.Form1.resources
+C:\Users\luzip\Documents\Visuale\Maggiore\CLASSI\Progetto Abbigliamento\Progetto Abbigliamento\obj\Debug\Progetto_Abbigliamento.Properties.Resources.resources
+C:\Users\luzip\Documents\Visuale\Maggiore\CLASSI\Progetto Abbigliamento\Progetto Abbigliamento\obj\Debug\Progetto Abbigliamento.csproj.GenerateResource.cache
+C:\Users\luzip\Documents\Visuale\Maggiore\CLASSI\Progetto Abbigliamento\Progetto Abbigliamento\obj\Debug\Progetto Abbigliamento.csproj.CoreCompileInputs.cache
+C:\Users\luzip\Documents\Visuale\Maggiore\CLASSI\Progetto Abbigliamento\Progetto Abbigliamento\bin\Debug\Progetto Abbigliamento.exe.config
+C:\Users\luzip\Documents\Visuale\Maggiore\CLASSI\Progetto Abbigliamento\Progetto Abbigliamento\bin\Debug\Progetto Abbigliamento.exe
+C:\Users\luzip\Documents\Visuale\Maggiore\CLASSI\Progetto Abbigliamento\Progetto Abbigliamento\bin\Debug\Progetto Abbigliamento.pdb
+C:\Users\luzip\Documents\Visuale\Maggiore\CLASSI\Progetto Abbigliamento\Progetto Abbigliamento\obj\Debug\Progetto Abbigliamento.exe
+C:\Users\luzip\Documents\Visuale\Maggiore\CLASSI\Progetto Abbigliamento\Progetto Abbigliamento\obj\Debug\Progetto Abbigliamento.pdb
